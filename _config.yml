@@ -1,11 +1,11 @@
 # Site settings
-author: Brittany Russell
-title: 
+author: Brittany 
+title: Sincerely Brittany 
 header-img: img/home-bg.png
 email: sincerelybr@gmail.com
-copyright_name: Brittany Russell
+copyright_name: Brittany 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Just Every Day Life
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  SincerelyBrittany
