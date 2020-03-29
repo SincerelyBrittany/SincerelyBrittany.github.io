@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Coding Every Day"
-date:       2020-03-29 20:20:50 +0000
+date:       2020-03-29 16:20:51 -0400
 permalink:  coding_every_day
 ---
 
