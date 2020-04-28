@@ -20,7 +20,7 @@ Some things that has helped me:
 
 1. Short-term goals. -- instead of making sure I code every day. I make sure I do something towards coding -- including watching a youtube video instead or just reading.
 
-2. Be extremely optimistic. -- AFFIRMATIONS - Keep telling myself I can do this and talk in the mirror -- make the people are are still with me and no longer with me PROUD
+2. Be extremely optimistic. -- AFFIRMATIONS - Keep telling myself I can do this and talk in the mirror -- make the people who are are still with me and no longer with me PROUD
 
 3. Surround yourself with like-minded people. -- I have an amazing cohort team that I write to on slack and they always give me the optimistic push I need. I have learned that I may feel alone but I am never alone. People are behind like me and willing to help at all times. 
 
