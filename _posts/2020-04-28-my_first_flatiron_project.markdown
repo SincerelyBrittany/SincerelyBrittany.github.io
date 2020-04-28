@@ -1,9 +1,11 @@
 ---
 layout: post
 title:      "My First Flatiron Project"
-date:       2020-04-28 14:51:33 +0000
+date:       2020-04-28 10:51:34 -0400
 permalink:  my_first_flatiron_project
 ---
+
+Please find article here: https://medium.com/@sincerelybr/my-first-flatiron-project-94824e72e39b
 
 
 ---
