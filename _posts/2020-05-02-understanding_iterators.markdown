@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Understanding Iterators"
-date:       2020-05-02 14:38:57 +0000
+date:       2020-05-02 10:38:58 -0400
 permalink:  understanding_iterators
 ---
 
