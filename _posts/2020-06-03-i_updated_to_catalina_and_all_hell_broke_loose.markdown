@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "I updated to Catalina and All HELL Broke Loose"
-date:       2020-06-03 16:17:45 +0000
+date:       2020-06-03 12:17:46 -0400
 permalink:  i_updated_to_catalina_and_all_hell_broke_loose
 ---
 
 
 So when I began my coding bootcamp I was directed to use the following <a href="https://github.com/learn-co-curriculum/environment-mac-os-catalina-setup"> directions </a> to set up my environment locally. 
 
-Well, step one of the directions included installing <b>Command Line Tools</b>, but in order to install those tools I had to update my computer from <a href="https://www.apple.com/shop/product/D6377Z/A/os-x-mountain-lion"> OS X Mountain Lion </a> to <a href=https://www.apple.com/macos/catalina/> Catalina </a>.
+Well, step one of the directions included installing <b>Command Line Tools</b>, but in order to install those tools I had to update my computer from <a href="https://www.apple.com/shop/product/D6377Z/A/os-x-mountain-lion"> OS X Mountain Lion </a> to <a href="https://www.apple.com/macos/catalina/"> Catalina </a>.
 
 Who knew this minor update would cause HAVOC on my life. Before the update, I was able to access my desktop and documents from my Finder application without any issues, even though all of my files were technically in my iCloud directory. For some reason, it did not matter and I was content with it that way. But after the upgrade, I guess my system recalibrated and I could no longer access my documents the way I used to. I had to find a way to access my documents through iCloud.
 
